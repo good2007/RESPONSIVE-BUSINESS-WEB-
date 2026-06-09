@@ -57,6 +57,6 @@ This project is a responsive marketing website built using Tailwind CSS.
 
 ### GitHub Repository
 
-https://github.com/good2007/vercel-clone
+https://github.com/good2007/RESPONSIVE-BUSINESS-WEB-
 
 ### Live Demo
