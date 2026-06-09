@@ -57,8 +57,6 @@ This project is a responsive marketing website built using Tailwind CSS.
 
 ### GitHub Repository
 
-https://github.com/yourusername/vercel-clone
+https://github.com/good2007/vercel-clone
 
 ### Live Demo
-
-https://your-site.netlify.app
