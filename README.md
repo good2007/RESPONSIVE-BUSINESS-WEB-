@@ -48,3 +48,17 @@ This project is a responsive marketing website built using Tailwind CSS.
 - Build responsive layouts.
 - Use modern web design practices.
 - Deploy static websites.# RESPONSIVE-BUSINESS-WEB-
+
+## Comparison
+
+### Original vs Clone
+
+![Comparison](comparison.png)
+
+### GitHub Repository
+
+https://github.com/yourusername/vercel-clone
+
+### Live Demo
+
+https://your-site.netlify.app
